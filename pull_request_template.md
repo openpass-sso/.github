@@ -1,11 +1,19 @@
 ## JIRA Ticket
 
+_ex: https://www.foo.com/BAR-123_
 
 ## What does this PR do?
 
+_Describe what problem this PR solves_
 
 ## Where should the reviewer start?
 
+_Code, documentation, local setup, etc_
 
 ## Test plan
 
+_What does success look like for this PR and what steps are needed to acheive it?_
+
+## Notify People
+
+_Tag any collaborators or people interested in this PR_
