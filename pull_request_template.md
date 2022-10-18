@@ -6,6 +6,10 @@ _ex: https://www.foo.com/BAR-123_
 
 _Describe what problem this PR solves_
 
+## Documented Decisions? (ADRs)
+
+_List any new ADR(s) that were created._
+
 ## Where should the reviewer start?
 
 _Code, documentation, local setup, etc_
