@@ -1,6 +1,6 @@
 ## JIRA Ticket
 
-_ex: https://www.foo.com/BAR-123_
+https://atlassian.thetradedesk.com/jira/browse/OPENPASS-XXX
 
 ## What does this PR do?
 
