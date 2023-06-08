@@ -6,9 +6,10 @@ https://atlassian.thetradedesk.com/jira/browse/OPENPASS-XXX
 
 _Describe what problem this PR solves_
 
-## Documented Decisions? (ADRs)
+## Documented Decisions?
 
-_List any new ADR(s) that were created._
+_Add any deicisions that were made during this story: https://atlassian.thetradedesk.com/confluence/display/EN/Record+of+decisions+made_
+
 
 ## Where should the reviewer start?
 
@@ -21,14 +22,3 @@ _What does success look like for this PR and what steps are needed to acheive it
 ## Screenshots / Videos
 
 _Display associated screenshots (if any) here using the details tag_
-
-<details>
-	<summary>Name of Screenshot Goes Here</summary>
-
-	_Link to Screenshot / Video goes here_
-
-</details>
-
-## Notify People
-
-_Tag any collaborators or people interested in this PR_
