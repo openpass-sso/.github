@@ -6,11 +6,6 @@ https://atlassian.thetradedesk.com/jira/browse/OPENPASS-XXX
 
 _Describe what problem this PR solves_
 
-## Documented Decisions?
-
-_Add any deicisions that were made during this story: https://atlassian.thetradedesk.com/confluence/display/EN/Record+of+decisions+made_
-
-
 ## Where should the reviewer start?
 
 _Code, documentation, local setup, etc_
