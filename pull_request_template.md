@@ -3,6 +3,7 @@
 * For FE features please include screenshots and/or videos of the feature working. Videos are preferred.
 * Ensure the size and complexity of your PR is as small as possible. This will help the reviewer give a good review.
 * Choose your reviewer wisely - they should be SMEs in the area of change. Multiple reviewers for complex changes are encouraged.
+* The reviewer is responsible for the functionality of this PR working correctly just as much as the author. It is encouraged for the reviewer to check out the change and test according to the test plan.
 
 ## JIRA Ticket
 
@@ -18,8 +19,9 @@ _Code, documentation, local setup, etc_
 
 ## Test plan
 
-_What is the test plan? What does the reviewer need to do to test this feature manually? Provide evidence that the test plan has succeeded._
+_What is the test plan? Provide evidence that the test plan has succeeded._
+_ Additionaly, what does the reviewer need to do to test this feature manually?
 
 ## Screenshots / Videos
 
-_Display associated screenshots or videos (if any) here_
+_Display associated screenshots or videos (if any) here. This is a requirement for FE changes._
