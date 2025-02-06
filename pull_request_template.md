@@ -4,8 +4,10 @@
 * For FE features, it is a requirement to include screenshots and/or videos of the feature working. Videos are preferred. However, all changes will benefit from screenshots of testing evidence.
 * Ensure the size and complexity of your PR is as small as possible. This will help the reviewer give a good review.
 * Choose your reviewer wisely - they should be SMEs in the area of change. Multiple reviewers for complex changes are encouraged.
-* The reviewer is responsible for the functionality of this PR working correctly just as much as the author. It is encouraged for the reviewer to check out the change and test according to the test plan.
 -->
+## Note to reviewer:
+* The reviewer is responsible for the functionality of this PR working correctly just as much as the author. It is encouraged for the reviewer to check out the change and test according to the test plan.
+
 
 ## JIRA Ticket
 
